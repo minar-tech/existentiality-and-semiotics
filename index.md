@@ -2,6 +2,15 @@
 
 *Eero Tarasti*
 
+![Communication AB](images/communication_ab.jpg)
+![Dasein](images/dasein.jpg)
+![Existential Communication](images/existential_communication.jpg)
+![S1 and S2](images/s1s2.jpg)
+![Trans Supra Sign](images/trans_supra_sig.jpg)
+![Transcendences](images/transcendences.jpg)
+![Zemic](images/zemic.jpg)
+
+
 **Table of Contents**
 
 [1. Introduction 1](#introduction)
