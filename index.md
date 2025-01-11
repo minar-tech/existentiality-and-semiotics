@@ -1,8 +1,8 @@
 ---
 title: Existentiality and Semiotics
 layout: default
-css: style.css
 ---
+<link rel="stylesheet" href="style.css">
 <div class="content">
 
 # Exixtentiality and Semiotics -- Are They Compatible?
