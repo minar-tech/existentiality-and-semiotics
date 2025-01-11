@@ -3,7 +3,6 @@ title: Existentiality and Semiotics
 layout: default
 css: style.css
 ---
-<div class="content">
 
 # Exixtentiality and Semiotics -- Are They Compatible?
 
@@ -732,5 +731,3 @@ Routledge & Kegan Paul.
 
 Wright, G. H. v. (1963). *Norm and action: A logical enquiry*. London:
 Routledge & Kegan Paul.
-
-</div>
