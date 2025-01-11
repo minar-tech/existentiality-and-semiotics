@@ -230,7 +230,7 @@ existential semiotics.
 -   **Reference:** Crowell, S. (2017). Existentialism. In E. N. Zalta
     (Ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2017
     Edition). Retrieved from
-    https://plato.stanford.edu/archives/fall2017/entries/existentialism/
+    <https://plato.stanford.edu/archives/fall2017/entries/existentialism/>
 
 ### 2.2 Semiotics
 
@@ -244,7 +244,7 @@ existential semiotics.
     various contexts, including language, images, and gestures.
 -   **Reference:** Chandler, D. (2007). *Semiotics: The Basics* (2nd
     ed.). Routledge. Retrieved from
-    https://www.uvm.edu/\~tstreete/semiotics_and_ads/terminology.html
+    <https://www.uvm.edu/\~tstreete/semiotics_and_ads/terminology.html>
 
 ### 2.3 *Dasein*
 
@@ -257,7 +257,7 @@ existential semiotics.
     questions its own being.
 -   **Reference:** Inwood, M. (1999). *A Heidegger Dictionary*.
     Blackwell Publishers. Retrieved from
-    https://en.wikipedia.org/wiki/Dasein
+    <https://en.wikipedia.org/wiki/Dasein>
 
 ### 2.4 *An-sich-sein* / *Für-sich-sein*
 
@@ -271,7 +271,7 @@ existential semiotics.
     to a being\'s self-awareness or consciousness.
 -   **Reference:** Hegel, G. W. F. (1977). *Phenomenology of Spirit*
     (A. V. Miller, Trans.). Oxford University Press. Retrieved from
-    https://plato.stanford.edu/entries/hegel/
+    <https://plato.stanford.edu/entries/hegel/>
 
 ### 2.5 *Geist*
 
@@ -337,7 +337,7 @@ existential semiotics.
     semiotics to describe goal-directedness in meaning-making processes.
 -   **Reference:** Kant, I. (1790). *Critique of Judgment* (J. H.
     Bernard, Trans.). Macmillan. Retrieved from
-    https://archive.org/details/critiqueofjudgme00kantuoft
+    <https://archive.org/details/critiqueofjudgme00kantuoft>
 
 ### 2.9 Sublimation
 
@@ -351,7 +351,7 @@ existential semiotics.
 -   **Reference:** Freud, S. (1953). *The Ego and the Id*. In J.
     Strachey (Ed. & Trans.), *The Standard Edition of the Complete
     Psychological Works of Sigmund Freud* (Vol. 19, pp. 1-66). Hogarth
-    Press. Retrieved from https://plato.stanford.edu/entries/freud/
+    Press. Retrieved from <https://plato.stanford.edu/entries/freud/>
 
 ### 2.10 Embodiment
 
@@ -365,7 +365,7 @@ existential semiotics.
 -   **Reference:** Varela, F. J., Thompson, E., & Rosch, E. (1991). *The
     Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
     Retrieved from
-    https://plato.stanford.edu/entries/embodied-cognition/
+    <https://plato.stanford.edu/entries/embodied-cognition/>
 
 ### 2.11 *Moi1*, *Moi2*, *Soi1*, *Soi2*
 
