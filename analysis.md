@@ -4,32 +4,32 @@ layout: default
 css: assets/css/style.css
 ---
 
-# []{#anchor}1. Outline, List of Themes
+## 1. Outline, List of Themes
 
-## []{#anchor-1}**1.**1** Introduction to Existential Semiotics**
+### 1.1 Introduction to Existential Semiotics
 
 This theme discusses the origins, goals, and potential of existential
 semiotics as a field of study.
 
-[]{#anchor-2}Outline
+**Outline**
 
 -   The origins and goals of existential semiotics.
 -   The interplay between existentiality and semiotics.
 -   Reflections on the reception and future of existential semiotics.
 
-[]{#anchor-3}**Relevant Terms**
+**Relevant Terms**
 
 -   Existentiality (1)
 -   Semiotics (2)
 -   Zemic Model (12)
 -   Third Semiotic Revolution (37)
 
-## []{#anchor-4}**1.2. Existentiality in Philosophy**
+### 1.2. Existentiality in Philosophy
 
 Exploration of the historical roots of existential philosophy and its
 connection to themes like freedom, choice, and subjectivity.
 
-[]{#anchor-5}Outline
+**Outline**
 
 -   Historical roots of existentiality in continental philosophy.
 -   Discussion of key figures: Kierkegaard, Heidegger, Jaspers, Sartre,
@@ -37,33 +37,33 @@ connection to themes like freedom, choice, and subjectivity.
 -   Differences in perspectives between continental and analytical
     schools of thought.
 
-[]{#anchor-6}**Relevant Terms**
+**Relevant Terms**
 
 -   Existentiality (1)
--   *Dasein* (3)**
--   *An-sich-sein* / *Für-sich-sein* (4)**
+-   *Dasein* (3)*
+-   *An-sich-sein* / *Für-sich-sein* (4)
 -   *Geist* (5)**
--   *Ding an sich* (6)**
--   **Sinnlichkeit** (7)**
--   **Sublimation (9)**
--   **Embodiment (10)**
--   **Phenomenological Transcendence** (27)**
+-   *Ding an sich* (6)
+-   *Sinnlichkeit* (7)
+-   Sublimation (9)
+-   Embodiment (10)
+-   Phenomenological Transcendence (27)
 -   Existential Transcendence (29)
 -   Transcendental Ego (36)
 
-## []{#anchor-7}**1.3. Semiotics as a Discipline**
+### 1.3. Semiotics as a Discipline
 
 Focuses on semiotics as a study of signs and its evolution through
 various theoretical frameworks.
 
-[]{#anchor-8}Outline
+**Outline**
 
 -   The denial of the subject in traditional semiotics.
 -   Instrumentality and objectivity in semiotic theory.
 -   Evolution of semiotics through figures like Peirce, Saussure, and
     Greimas.
 
-[]{#anchor-9}**Relevant Terms**
+**Relevant Terms**
 
 -   Semiotics (2)
 -   Semiotic Square (20)
@@ -71,153 +71,153 @@ various theoretical frameworks.
 -   Signification (23)
 -   Logical Semiotics (32)
 
-## []{#anchor-10}**1.4. Compatibility of Existentiality and Semiotics**
+### 1.4. Compatibility of Existentiality and Semiotics
 
 Exploration of how existential philosophy and semiotics intersect and
 influence each other.
 
-[]{#anchor-11}Outline
+**Outline**
 
 -   Challenges and criticisms of blending existential philosophy with
     semiotics.
 -   The transformative effects of combining these fields.
 -   Exploration of mutual influences.
 
-[]{#anchor-12}**Relevant Terms**
+**Relevant Terms**
 
 -   Existentiality (1)
 -   Semiotics (2)
 -   Existential Communication (25)
 -   Third Semiotic Revolution (37)
 
-## []{#anchor-13}**1.5. Philosophical Concepts in Existential Semiotics**
+### 1.5. Philosophical Concepts in Existential Semiotics
 
 Analysis of key philosophical ideas integrated into existential
 semiotics.
 
-[]{#anchor-14}Outline
+**Outline**
 
 -   Heidegger's *Dasein* and its adaptation in semiotics.
 -   Hegelian categories of being and not-being (**an-sich-sein**,
     **für-sich-sein**).
 -   Concepts of transcendence: empirical, existential, and radical.
 
-[]{#anchor-15}**Relevant Terms**
+**Relevant Terms**
 
 -   *Dasein* (3)**
 -   *Geist* (5)**
--   *Ding an sich* (6)**
--   **Sinnlichkeit** (7)**
--   *Zweckmäßigkeit (8)*
+-   *Ding an sich* (6)
+-   *Sinnlichkeit* (7)
+-   *Zweckmäßigkeit* (8)
 -   Sublimation (9)
 -   Embodiment (10)
 -   Transcendence (13)
--   *Merken und Wirken* (1**5**)**
--   *Weltorientierung* (1**6**)**
+-   *Merken und Wirken* (15)
+-   *Weltorientierung* (16)
 -   Radical Transcendence (26)
 -   Phenomenological Transcendence (27)
 -   Empirical Transcendence (28)
 -   Existential Transcendence (29)
 
-## []{#anchor-16}**1.6. Zemic Model**
+### 1.6. Zemic Model
 
 Description of Tarasti's Zemic Model and its applications in existential
 semiotics.
 
-[]{#anchor-17}Outline
+**Outline**
 
 -   Evolution of the semiotic square into the Zemic model.
 -   Categories of *Moi1*, *Moi2*, *Soi1*, and *Soi2*.
 -   Sublimation and embodiment processes in the Zemic framework.
--   **Zweckmessigkeit**
+-   *Zweckmessigkeit*
 
-[]{#anchor-18}**Relevant Terms**
+**Relevant Terms**
 
--   *Zweckmäßigkeit *(8)**
--   *Moi1*, *Moi2*, *Soi1*, *Soi2* (**11**)**
--   **Zemic Model** (**12**)**
--   **Supra-Zemic** (30)**
+-   *Zweckmäßigkeit* (8)
+-   *Moi1*, *Moi2*, *Soi1*, *Soi2* (11)
+-   Zemic Model (12)
+-   Supra-Zemic (30)
 -   Embodiment (in Zemic Context) (34)
 -   Sublimation (in Zemic Context) (35)
 
-## []{#anchor-19}**1.7. Existentializing Semiotics**
+### 1.7. Existentializing Semiotics
 
 A shift from classical structuralist semiotics to existential
 approaches, with emphasis on dynamic and humanistic elements.
 
-[]{#anchor-20}Outline
+**Outline**
 
 -   Adoption of concepts from Greimas' structuralist semiotics.
 -   Relevance of modalities, isotopies, and the generative course.
 -   Dynamic transformation of Greimas' semiotic square into a temporal
     Z-model.
 
-[]{#anchor-21}**Relevant Terms**
+**Relevant Terms**
 
 -   Modalities (19)
 -   Semiotic Square (20)
 -   Generative Course (21)
 -   Isotopy (24)
--   []{#anchor-22}Cartesian Semiotics (31)
--   []{#anchor-23}Embodiment (in Zemic Context) (34)
+-   Cartesian Semiotics (31)
+-   Embodiment (in Zemic Context) (34)
 
-## []{#anchor-24}**1.8. Existential Communication**
+### 1.8. Existential Communication
 
 Focuses on the exchange of meaning and risks involved in existential
 dialogues.
 
-[]{#anchor-25}Outline
+**Outline**
 
 -   Examination of Saussurean and other classical models of
     communication.
 -   The role of transcendence in communication.
 -   The semiotic and ontological dimensions of the Zemic model.
 
-[]{#anchor-26}**Relevant Terms**
+**Relevant Terms**
 
 -   Alien-Psychic / Auto-Psychic (22)
 -   Signification (23)
 -   Existential Communication (25)
 
-## []{#anchor-27}**1.9. Implications and Future Directions**
+### 1.9. Implications and Future Directions
 
 Potential research strategies and paradigms in human sciences emerging
 from existential semiotics.
 
-[]{#anchor-28}Outline
+**Outline**
 
 -   Potential new research strategies and paradigms in human sciences.
 -   Contributions to understanding the processes of the human mind.
 -   Reflections on the evolving metalanguage of existential semiotics.
 
-[]{#anchor-29}**Relevant Terms**
+**Relevant Terms**
 
--   *Umwelt* (1**4**)**
+-   *Umwelt* (14)
 -   Transcultural Theory (17)
 -   Transcultural Theory of Transcendence (18)
 -   Cultural Semiotics (33)
--   **Third Semiotic Revolution** (37)**
+-   Third Semiotic Revolution** (37)
 
-## []{#anchor-30}**1.10. Conclusion**
+### 1.10. Conclusion
 
 Reflections on the achievements, questions, and directions of
 existential semiotics.
 
-[]{#anchor-31}Outline
+**Outline**
 
 -   Summary of existential semiotics' achievements and open questions.
 -   The significance of blending existentiality and semiotics.
 
-[]{#anchor-32}**Relevant Terms**
+**Relevant Terms**
 
 -   Existentiality (1)
 -   Semiotics (2)
 -   Zemic Model (12)
 -   Transcendence (13)
 
-# []{#anchor-33}2. Characterization of Terms
+## 2. Characterization of Terms
 
-## []{#anchor-34}2.1 Existentiality
+### 2.1 Existentiality
 
 -   **Associated Author(s):** Søren Kierkegaard, Martin Heidegger,
     Jean-Paul Sartre, and Karl Jaspers.
@@ -232,7 +232,7 @@ existential semiotics.
     Edition). Retrieved from
     https://plato.stanford.edu/archives/fall2017/entries/existentialism/
 
-## []{#anchor-35}2.2 Semiotics
+### 2.2 Semiotics
 
 -   **Associated Author(s):** Charles Sanders Peirce, Ferdinand de
     Saussure.
@@ -246,11 +246,11 @@ existential semiotics.
     ed.). Routledge. Retrieved from
     https://www.uvm.edu/\~tstreete/semiotics_and_ads/terminology.html
 
-## []{#anchor-36}2.3 *Dasein*
+### 2.3 *Dasein*
 
 -   **Associated Author(s):** Martin Heidegger.
--   **Rationale:*** *Heidegger coined this term in Being and Time to
-    describe human existence. **
+-   **Rationale:** Heidegger coined this term in Being and Time to
+    describe human existence.
 -   **Characterization:** *Dasein* is a German term meaning \"being
     there\" or \"presence.\" Introduced by Martin Heidegger, it refers
     to human existence or the experience of being that is aware of and
@@ -259,7 +259,7 @@ existential semiotics.
     Blackwell Publishers. Retrieved from
     https://en.wikipedia.org/wiki/Dasein
 
-## []{#anchor-37}2.4 *An-sich-sein* / *Für-sich-sein*
+### 2.4 *An-sich-sein* / *Für-sich-sein*
 
 -   **Associated Author(s):** G. W. F. Hegel.
 -   **Rationale:*** *Concepts introduced in Hegel\'s Phenomenology of
@@ -273,7 +273,7 @@ existential semiotics.
     (A. V. Miller, Trans.). Oxford University Press. Retrieved from
     https://plato.stanford.edu/entries/hegel/
 
-## []{#anchor-38}****2.****5 *****Geist*****
+### 2.5 *Geist*
 
 -   **Associated Author(s):** G. W. F. Hegel
 -   **Rationale:** Central to Hegel\'s philosophy, where it represents
@@ -289,7 +289,7 @@ existential semiotics.
     (A. V. Miller, Trans.). Oxford University Press. Retrieved from
     <https://plato.stanford.edu/entries/hegel/>
 
-## []{#anchor-39}****2.****6 *****Ding an Sich*****
+### 2.6 *Ding an Sich*
 
 -   **Associated Author(s):** Immanuel Kant
 -   **Rationale:** Introduced by Kant in his epistemology to distinguish
@@ -305,7 +305,7 @@ existential semiotics.
     Smith, Trans.). Macmillan. Retrieved from
     <https://archive.org/details/critiqueofpurer00kantuoft>
 
-## []{#anchor-40}****2.****7 *****Sinnlichkeit*****
+### 2.7 *Sinnlichkeit*
 
 -   **Associated Author(s):** Immanuel Kant
 -   **Rationale:** Foundational to Kant's theory of knowledge, where it
@@ -321,7 +321,7 @@ existential semiotics.
     Smith, Trans.). Macmillan. Retrieved from
     <https://archive.org/details/critiqueofpurer00kantuoft>
 
-## []{#anchor-41}****2.****8 *****Zweckmäßigkeit*****
+### 2.8 *Zweckmäßigkeit*
 
 -   **Associated Author(s):** Immanuel Kant
 -   **Rationale:** Central to Kant's *Critique of Judgment*, where it is
@@ -339,7 +339,7 @@ existential semiotics.
     Bernard, Trans.). Macmillan. Retrieved from
     https://archive.org/details/critiqueofjudgme00kantuoft
 
-## []{#anchor-42}2.9 Sublimation
+### 2.9 Sublimation
 
 -   **Associated Author(s):** Sigmund Freud.
 -   **Rationale:** Developed within psychoanalytic theory to describe
@@ -353,7 +353,7 @@ existential semiotics.
     Psychological Works of Sigmund Freud* (Vol. 19, pp. 1-66). Hogarth
     Press. Retrieved from https://plato.stanford.edu/entries/freud/
 
-## []{#anchor-43}2.10 Embodiment
+### 2.10 Embodiment
 
 -   **Associated Author(s):** Varela, Thompson, and Rosch (in cognitive
     science context).
@@ -367,7 +367,7 @@ existential semiotics.
     Retrieved from
     https://plato.stanford.edu/entries/embodied-cognition/
 
-## []{#anchor-44}2.11 *Moi1*, *Moi2*, *Soi1*, *Soi2*
+### 2.11 *Moi1*, *Moi2*, *Soi1*, *Soi2*
 
 -   **Associated Author(s):** Eero Tarasti.
 -   **Rationale:*** These terms are central to Tarasti\'s Zemic model in
@@ -380,7 +380,7 @@ existential semiotics.
     University Press. Retrieved from
     https://books.google.com/books?id=FySwDQAAQBAJ
 
-## []{#anchor-45}2.12 Zemic Model
+### 2.12 Zemic Model
 
 -   **Associated Author(s):** Eero Tarasti.
 -   **Rationale:** Developed by Tarasti as an extension of Greimas\'s
@@ -394,7 +394,7 @@ existential semiotics.
     University Press. Retrieved from
     https://books.google.com/books?id=FySwDQAAQBAJ
 
-## []{#anchor-46}2.13 Transcendence
+### 2.13 Transcendence
 
 -   **Associated Author(s):** Alfred Schütz, Thomas Luckmann
     (empirical); Jean-Paul Sartre (existential); Immanuel Kant, G. W. F.
@@ -410,7 +410,7 @@ existential semiotics.
     Barnes, Trans.). Philosophical Library. Retrieved from
     https://plato.stanford.edu/entries/sartre/
 
-## []{#anchor-47}2.14 *Umwelt*
+### 2.14 *Umwelt*
 
 -   **Associated Author(s):** Jakob von Uexküll.
 -   **Rationale:*** Coined to describe the subjective world of an
@@ -425,7 +425,7 @@ existential semiotics.
     Press. Retrieved from
     https://monoskop.org/images/4/4e/Uexkull_Jakob_von_A_Foray_into_the_Worlds_of_Animals_and_Humans.pdf
 
-## []{#anchor-48}2.15 *Merken und Wirken*
+### 2.15 *Merken und Wirken*
 
 -   **Associated Author(s):** Karl Jaspers.
 -   **Rationale:*** Introduced to describe processes of perceiving and
@@ -438,7 +438,7 @@ existential semiotics.
     Trans.). Noonday Press. Retrieved from
     https://archive.org/details/reasonexistenz00jasp
 
-## []{#anchor-49}2.16 *Weltorientierung*
+### 2.16 *Weltorientierung*
 
 -   **Associated Author(s):** Karl Jaspers.
 -   **Rationale:*** Describes how individuals orient themselves in the
@@ -451,7 +451,7 @@ existential semiotics.
     Trans.). Noonday Press. Retrieved from
     https://archive.org/details/reasonexistenz00jasp
 
-## []{#anchor-50}****2.****1****7**** **Transcultural Theory**
+### 2.17 Transcultural Theory
 
 -   **Associated Author(s):** Eero Tarasti
 -   **Rationale:** Introduced by Tarasti to explore universal cultural
@@ -465,7 +465,7 @@ existential semiotics.
     Signs and their metaphysical dimensions*. De Gruyter. Retrieved from
     [https://books.google.com](https://books.google.com/)
 
-## []{#anchor-51}****2.****1****8**** **Transcultural Theory of Transcendence**
+### 2.18 Transcultural Theory of Transcendence
 
 -   **Associated Author(s):** Eero Tarasti
 -   **Rationale:** Developed by Tarasti to examine how transcendence
@@ -481,7 +481,7 @@ existential semiotics.
     Signs and their metaphysical dimensions*. De Gruyter. Retrieved from
     [https://books.google.com](https://books.google.com/)
 
-## []{#anchor-52}2.19 Modalities
+### 2.19 Modalities
 
 -   **Associated Author(s):** A. J. Greimas; influenced by Georg Henrik
     von Wright.
@@ -496,7 +496,7 @@ existential semiotics.
     Retrieved from
     https://archive.org/details/semioticsandlanguagedictionary
 
-## []{#anchor-53}2.20 Semiotic Square
+### 2.20 Semiotic Square
 
 -   **Associated Author(s):** A. J. Greimas.
 -   **Rationale:** Greimas\'s tool for structural analysis of meaning.
@@ -508,7 +508,7 @@ existential semiotics.
     in semiotic theory*. University of Minnesota Press. Retrieved from
     https://archive.org/details/onmeaningselecte0000grei
 
-## []{#anchor-54}2.21 Generative Course
+### 2.21 Generative Course
 
 -   **Associated Author(s):** A. J. Greimas.
 -   **Rationale:** Developed by Greimas, inspired by Chomsky\'s
@@ -521,7 +521,7 @@ existential semiotics.
     Recherche de méthode*. Larousse. Retrieved from
     https://archive.org/details/semiotics
 
-## []{#anchor-55}2.22 Alien-Psychic / Auto-Psychic
+### 2.22 Alien-Psychic / Auto-Psychic
 
 -   **Associated Author(s):** Edmund Husserl.
 -   **Rationale:** Rooted in phenomenological exploration of
@@ -535,7 +535,7 @@ existential semiotics.
     Nijhoff. Retrieved from
     https://archive.org/details/cartesianmeditat00huss
 
-## []{#anchor-56}2.23 Signification
+### 2.23 Signification
 
 -   **Associated Author(s):** Ferdinand de Saussure; expanded by Eero
     Tarasti.
@@ -548,7 +548,7 @@ existential semiotics.
     Linguistics* (W. Baskin, Trans.). McGraw-Hill. Retrieved from
     https://archive.org/details/courseingenerall0000saus
 
-## []{#anchor-57}2.24 Isotopy
+### 2.24 Isotopy
 
 -   **Associated Author(s):** A. J. Greimas.
 -   **Rationale:** Greimas\'s concept for coherence in discourse.
@@ -559,7 +559,7 @@ existential semiotics.
     in Semiotic Theory*. University of Minnesota Press. Retrieved from
     https://archive.org/details/onmeaningselecte0000grei
 
-## []{#anchor-58}2.25 Existential Communication
+### 2.25 Existential Communication
 
 -   **Associated Author(s):** Eero Tarasti.
 -   **Rationale:** Introduced by Tarasti as part of existential
@@ -572,7 +572,7 @@ existential semiotics.
     University Press. Retrieved from
     https://archive.org/details/theoryofsemiotic0000ecou
 
-## []{#anchor-59}2.26 Radical Transcendence
+### 2.26 Radical Transcendence
 
 -   **Associated Author(s):** Immanuel Kant, G. W. F. Hegel.
 -   **Rationale:** Explored in their metaphysical systems.
@@ -585,7 +585,7 @@ existential semiotics.
     Smith, Trans.). Macmillan. Retrieved from
     https://archive.org/details/critiqueofpurer00kantuoft
 
-## []{#anchor-60}2.27 Phenomenological Transcendence
+### 2.27 Phenomenological Transcendence
 
 -   **Associated Author(s):** Edmund Husserl.
 -   **Rationale:** Fundamental to Husserl\'s phenomenology.
@@ -597,7 +597,7 @@ existential semiotics.
     Phenomenology and to a Phenomenological Philosophy*. Springer.
     Retrieved from https://archive.org/details/ideaspertainingt00huss
 
-## []{#anchor-61}****2.****28**** **Empirical Transcendence**
+### 2.28 Empirical Transcendence
 
 -   **Associated Author(s):** Alfred Schütz, Thomas Luckmann
 -   **Rationale:** Developed within phenomenological sociology.
@@ -612,7 +612,7 @@ existential semiotics.
     the Life-World* (Vol. 1). Northwestern University Press. Retrieved
     from https://archive.org/details/structuresoflife0000schu
 
-## []{#anchor-62}****2.****29**** **Existential Transcendence**
+### 2.29 Existential Transcendence
 
 -   **Associated Author(s):** Jean-Paul Sartre
 -   **Rationale:** Sartre elaborated on transcendence in his existential
@@ -627,7 +627,7 @@ existential semiotics.
     Barnes, Trans.). Philosophical Library. Retrieved from
     <https://plato.stanford.edu/entries/sartre/>
 
-## []{#anchor-63}2.30 Supra-Zemic
+### 2.30 Supra-Zemic
 
 -   **Associated Author(s):** Eero Tarasti.
 -   **Rationale:** Concept introduced by Tarasti to describe a level
@@ -639,7 +639,7 @@ existential semiotics.
     University Press. Retrieved from
     https://books.google.com/books?id=FySwDQAAQBAJ
 
-## []{#anchor-64}2.31 Cartesian Semiotics
+### 2.31 Cartesian Semiotics
 
 -   **Associated Author(s):** René Descartes (influence); A. J. Greimas
     (application).
@@ -652,7 +652,7 @@ existential semiotics.
     Hackett. Retrieved from
     https://archive.org/details/discourseonmetho00desc_1
 
-## []{#anchor-65}2.32 Logical Semiotics
+### 2.32 Logical Semiotics
 
 -   **Associated Author(s):** Ludwig Wittgenstein.
 -   **Rationale:** Explored in his logical and linguistic philosophies.
@@ -663,7 +663,7 @@ existential semiotics.
     Logico-Philosophicus*. Routledge. Retrieved from
     https://archive.org/details/tractatuslogicop00witt
 
-## []{#anchor-66}2.33 Cultural Semiotics
+### 2.33 Cultural Semiotics
 
 -   **Associated Author(s):** Yuri Lotman.
 -   **Rationale:** Developed in Lotman\'s works on the semiotics of
@@ -675,7 +675,7 @@ existential semiotics.
     Semiotic Theory of Culture*. I. B. Tauris. Retrieved from
     https://archive.org/details/universeofmindse0000lotm
 
-## []{#anchor-67}2.34 Embodiment (in Zemic Context)
+### 2.34 Embodiment (in Zemic Context)
 
 -   **Associated Author(s):** Eero Tarasti.
 -   **Rationale:** Tarasti\'s concept for materializing abstract values
@@ -687,7 +687,7 @@ existential semiotics.
     University Press. Retrieved from
     https://books.google.com/books?id=FySwDQAAQBAJ
 
-## []{#anchor-68}2.35 Sublimation (in Zemic Context)
+### 2.35 Sublimation (in Zemic Context)
 
 -   **Associated Author(s):** Eero Tarasti.
 -   **Rationale:** Adapted by Tarasti to describe the transformation of
@@ -699,7 +699,7 @@ existential semiotics.
     University Press. Retrieved from
     https://books.google.com/books?id=FySwDQAAQBAJ
 
-## []{#anchor-69}2.36 Transcendental Ego
+### 2.36 Transcendental Ego
 
 -   **Associated Author(s):** Immanuel Kant, Edmund Husserl
 -   **Rationale:** Central to Kant's epistemological framework and
@@ -714,7 +714,7 @@ existential semiotics.
     Smith, Trans.). Macmillan. Retrieved from
     <https://archive.org/details/critiqueofpurer00kantuoft>
 
-## []{#anchor-70}2.37 Third Semiotic Revolution
+### 2.37 Third Semiotic Revolution
 
 -   **Associated Author(s):** Eero Tarasti
 -   **Rationale:** Tarasti identified a shift in semiotics where
@@ -729,7 +729,7 @@ existential semiotics.
     Gruyter. Retrieved from
     [https://books.google.com](https://books.google.com/)
 
-# []{#anchor-71}3. Bibliography
+## 3. Bibliography
 
 Chandler, D. (2007). *Semiotics: The basics* (2nd ed.). Routledge.
 Retrieved from
