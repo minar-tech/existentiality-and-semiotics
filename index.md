@@ -25,8 +25,6 @@
 
 ## 1. Introduction
 
-## 
-
 (63:1) An invitation to write to the anthology of *Existential Human
 Science* by Routledge is a true challenge to my own work, which, during
 the last three decades, has focused on the elaboration of a theory I
