@@ -214,7 +214,7 @@ which we live. In Heidegger, the emphasis is on my world, i.e. the
 subject itself, whereas in a broader sense it contains also the objects
 and signs surrounding us (Heidegger 1967).
 
-![Dasein](images/dasein.jpg)
+![Dasein](assets/images/dasein.jpg)
 
 (66:2) Dasein is the reality that we learn to know due to the resistance
 it makes to our subjective ideas of it. For Charles S. Peirce, the being
@@ -277,7 +277,7 @@ get four cases. Later we can see how the Paris school semiotic square
 would function well here to fix these categories into a scheme or
 figure.
 
-![Zemic](images/zemic.jpg)
+![Zemic](assets/images/zemic.jpg)
 
 (67:3) I mention this as early as here before going to semiotics in the
 proper sense it is valid when we interpret Hegel. The model has two
@@ -371,7 +371,7 @@ Accordingly, we are at the **transcultural theory of transcendence**
 (see Tarasti 2017). Transcendence can thus occur vertically in two
 directions:
 
-![Transcendences](images/transcendences.jpg)
+![Transcendences](assets/images/transcendences.jpg)
 
 One may read more about these issues from Tarasti. (Tarasti
 2023, "Culture and Transcendence -- the concept of transcendence through
@@ -449,7 +449,7 @@ the semiotic square (Greimas 1966). It became one of the distinguishing
 features of the whole Greimassian approach in any empirical study.
 Namely, those terms could be put to form the diagram:
 
-![S1 and S2](images/s1s2.jpg)
+![S1 and S2](assets/images/s1s2.jpg)
 
 arriving at three kinds of logical relations: of contrariety between s1
 and s2, of contradiction between s1 and non-s1 or s2 and non-s2, or
@@ -562,7 +562,7 @@ alone first; it did not need to perceive anything, to say or do
 anything; but then we may imagine that it was brought to a dia- logue,
 and this caused the zemic started to take shape in the human mind:
 
-![Existential Communication](images/existential_communication.jpg)
+![Existential Communication](assets/images/existential_communication.jpg)
 
 ### 2.6 Existential communication
 
@@ -582,7 +582,7 @@ its stream (as Husserl argued), cogito ergo sum, he is auto-psychic.
 Thus, the whole communication takes place always under a terrible risk
 to lead to misunderstanding.
 
-![Communication AB](images/communication_ab.jpg)
+![Communication AB](assets/images/communication_ab.jpg)
 
 (73:1) Then comes signification, i.e. the sign itself. According to the
 medieval definition, a sign is *Aliquid stat pro aliquo*, something
@@ -599,7 +599,7 @@ one, and here the traditional sign categories of classical semiotics can
 be applied: icon, index, symbol, seme, etc., or to put it more
 dynamically: to convey, signify, express:
 
-![Trans Supra Sign](images/trans_supra_sig.jpg)
+![Trans Supra Sign](assets/images/trans_supra_sig.jpg)
 
 (73:3) To conclude, we have scrutinized how existentiality influences
 the semiotics and what semiotics offers to philosophical theories of
