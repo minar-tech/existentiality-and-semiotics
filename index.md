@@ -10,14 +10,14 @@ css: assets/css/style.css
 
 **Table of Contents**
 
-[1. Introduction](#introduction)  
-[2. Philosophical concepts](#philosophical-concepts)  
-[2.1 Dasein](#dasein)  
-[2.2 Being and not-being](#being-and-not-being)  
-[2.3 Transcendence](#transcendence)  
-[2.4 Existentializing semiotics](#existentializing-semiotics)  
-[2.5 The semiotic square becoming 'zemic' model](#the-semiotic-square-becoming-zemic-model)  
-[2.6 Existential communication](#existential-communication)  
+[1. Introduction](#1-introduction)  
+[2. Philosophical concepts](#2-philosophical-concepts)  
+[2.1 Dasein](#21-dasein)  
+[2.2 Being and not-being](#22-being-and-not-being)  
+[2.3 Transcendence](#23-transcendence)  
+[2.4 Existentializing semiotics](#24-existentializing-semiotics)  
+[2.5 The semiotic square becoming 'zemic' model](#25-the-semiotic-square-becoming-zemic-model)  
+[2.6 Existential communication](#26-existential-communication)  
 [References](#references)
 
 ## 1. Introduction
