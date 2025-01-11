@@ -1,0 +1,9 @@
+body {
+    margin: 0 auto; /* Center content */
+    padding: 0 15px; /* Add padding for mobile */
+}
+
+.content {
+    max-width: 800px; /* Limit width for larger screens */
+    margin: 0 auto; /* Center the content */
+}
