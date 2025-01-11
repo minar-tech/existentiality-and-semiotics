@@ -18,7 +18,7 @@ css: assets/css/style.css
 [2.4 Existentializing semiotics](#existentializing-semiotics)  
 [2.5 The semiotic square becoming 'zemic' model
 11](#the-semiotic-square-becoming-zemic-model)  
-[2.6 Existential communication](#existential-communication)
+[2.6 Existential communication](#existential-communication)  
 [References](#references)  
 
 ## 1. Introduction
