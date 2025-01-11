@@ -40,9 +40,9 @@ connection to themes like freedom, choice, and subjectivity.
 **Relevant Terms**
 
 -   Existentiality (1)
--   *Dasein* (3)*
--   *An-sich-sein* / *Für-sich-sein* (4)
--   *Geist* (5)**
+-   *Dasein* (3)
+-   *An-sich-sein* / *F&#252;r-sich-sein* (4)
+-   *Geist* (5)
 -   *Ding an sich* (6)
 -   *Sinnlichkeit* (7)
 -   Sublimation (9)
@@ -99,7 +99,7 @@ semiotics.
 
 -   Heidegger's *Dasein* and its adaptation in semiotics.
 -   Hegelian categories of being and not-being (**an-sich-sein**,
-    **für-sich-sein**).
+    **f&#252;r-sich-sein**).
 -   Concepts of transcendence: empirical, existential, and radical.
 
 **Relevant Terms**
@@ -108,7 +108,7 @@ semiotics.
 -   *Geist* (5)**
 -   *Ding an sich* (6)
 -   *Sinnlichkeit* (7)
--   *Zweckmäßigkeit* (8)
+-   *Zweckm�&#223;igkeit* (8)
 -   Sublimation (9)
 -   Embodiment (10)
 -   Transcendence (13)
@@ -129,11 +129,11 @@ semiotics.
 -   Evolution of the semiotic square into the Zemic model.
 -   Categories of *Moi1*, *Moi2*, *Soi1*, and *Soi2*.
 -   Sublimation and embodiment processes in the Zemic framework.
--   *Zweckmessigkeit*
+-   *Zweckm�&#223;igkeit*
 
 **Relevant Terms**
 
--   *Zweckmäßigkeit* (8)
+-   *Zweckm�&#223;igkeit* (8)
 -   *Moi1*, *Moi2*, *Soi1*, *Soi2* (11)
 -   Zemic Model (12)
 -   Supra-Zemic (30)
@@ -259,7 +259,7 @@ existential semiotics.
     Blackwell Publishers. Retrieved from
     <https://en.wikipedia.org/wiki/Dasein>
 
-### 2.4 *An-sich-sein* / *Für-sich-sein*
+### 2.4 *An-sich-sein* / *F&#252;r-sich-sein*
 
 -   **Associated Author(s):** G. W. F. Hegel.
 -   **Rationale:*** *Concepts introduced in Hegel\'s Phenomenology of
@@ -267,7 +267,7 @@ existential semiotics.
 -   **Characterization:** These German terms, introduced by G.W.F.
     Hegel, distinguish between different modes of being. *An-sich-sein*
     (\"being-in-itself\") refers to an object\'s existence independent
-    of perception, while *Für-sich-sein* (\"being-for-itself\") refers
+    of perception, while *F&#252;r-sich-sein* (\"being-for-itself\") refers
     to a being\'s self-awareness or consciousness.
 -   **Reference:** Hegel, G. W. F. (1977). *Phenomenology of Spirit*
     (A. V. Miller, Trans.). Oxford University Press. Retrieved from
@@ -321,13 +321,13 @@ existential semiotics.
     Smith, Trans.). Macmillan. Retrieved from
     <https://archive.org/details/critiqueofpurer00kantuoft>
 
-### 2.8 *Zweckmäßigkeit*
+### 2.8 *Zweckm�&#223;igkeit*
 
 -   **Associated Author(s):** Immanuel Kant
 -   **Rationale:** Central to Kant's *Critique of Judgment*, where it is
     used to describe the concept of purposiveness or teleology as an
     organizing principle of understanding.
--   **Characterization:** *Zweckmäßigkeit* refers to the idea of
+-   **Characterization:** *Zweckm�&#223;igkeit* refers to the idea of
     purposiveness, the quality of being directed toward an end or goal.
     In Kantian philosophy, it bridges the gap between the natural world
     and human cognition, emphasizing how objects or phenomena appear as
