@@ -378,7 +378,7 @@ existential semiotics.
     external dynamics of identity.
 -   **Reference:** Tarasti, E. (2000). *Existential Semiotics*. Indiana
     University Press. Retrieved from
-    https://books.google.com/books?id=FySwDQAAQBAJ
+    <https://books.google.com/books?id=FySwDQAAQBAJ>
 
 ### 2.12 Zemic Model
 
@@ -392,7 +392,7 @@ existential semiotics.
     factors in the creation of meaning.
 -   **Reference:** Tarasti, E. (2000). *Existential Semiotics*. Indiana
     University Press. Retrieved from
-    https://books.google.com/books?id=FySwDQAAQBAJ
+    <https://books.google.com/books?id=FySwDQAAQBAJ>
 
 ### 2.13 Transcendence
 
@@ -408,7 +408,7 @@ existential semiotics.
     consciousness, freedom, and intentionality.
 -   **Reference:** Sartre, J.-P. (1956). *Being and Nothingness* (H. E.
     Barnes, Trans.). Philosophical Library. Retrieved from
-    https://plato.stanford.edu/entries/sartre/
+    <https://plato.stanford.edu/entries/sartre/>
 
 ### 2.14 *Umwelt*
 
@@ -423,7 +423,7 @@ existential semiotics.
 -   **Reference:** von Uexküll, J. (2010). *A Foray into the Worlds of
     Animals and Humans* (D. J. O\'Neil, Trans.). University of Minnesota
     Press. Retrieved from
-    https://monoskop.org/images/4/4e/Uexkull_Jakob_von_A_Foray_into_the_Worlds_of_Animals_and_Humans.pdf
+    <https://monoskop.org/images/4/4e/Uexkull_Jakob_von_A_Foray_into_the_Worlds_of_Animals_and_Humans.pdf>
 
 ### 2.15 *Merken und Wirken*
 
@@ -436,7 +436,7 @@ existential semiotics.
     (*Merken*) and through action (*Wirken*).
 -   **Reference:** Jaspers, K. (1955). *Reason and Existenz* (W. Earle,
     Trans.). Noonday Press. Retrieved from
-    https://archive.org/details/reasonexistenz00jasp
+    <https://archive.org/details/reasonexistenz00jasp>
 
 ### 2.16 *Weltorientierung*
 
@@ -449,7 +449,7 @@ existential semiotics.
     through experiences and interactions.
 -   **Reference:** Jaspers, K. (1955). *Reason and Existenz* (W. Earle,
     Trans.). Noonday Press. Retrieved from
-    https://archive.org/details/reasonexistenz00jasp
+    <https://archive.org/details/reasonexistenz00jasp>
 
 ### 2.17 Transcultural Theory
 
@@ -463,7 +463,7 @@ existential semiotics.
     synthesis without necessarily invoking the concept of transcendence.
 -   **Reference:** Tarasti, E. (2017). *Semiotics and transcendence:
     Signs and their metaphysical dimensions*. De Gruyter. Retrieved from
-    [https://books.google.com](https://books.google.com/)
+    <https://books.google.com/>
 
 ### 2.18 Transcultural Theory of Transcendence
 
@@ -479,7 +479,7 @@ existential semiotics.
     universality of transcendental processes across cultures.
 -   **Reference:** Tarasti, E. (2017). *Semiotics and transcendence:
     Signs and their metaphysical dimensions*. De Gruyter. Retrieved from
-    [https://books.google.com](https://books.google.com/)
+    <https://books.google.com/>
 
 ### 2.19 Modalities
 
@@ -494,7 +494,7 @@ existential semiotics.
 -   **Reference:** Greimas, A. J., & Courtes, J. (1982). *Semiotics and
     language: An analytical dictionary*. Indiana University Press.
     Retrieved from
-    https://archive.org/details/semioticsandlanguagedictionary
+    <https://archive.org/details/semioticsandlanguagedictionary>
 
 ### 2.20 Semiotic Square
 
@@ -506,7 +506,7 @@ existential semiotics.
     semantic categories.
 -   **Reference:** Greimas, A. J. (1987). *On meaning: Selected writings
     in semiotic theory*. University of Minnesota Press. Retrieved from
-    https://archive.org/details/onmeaningselecte0000grei
+    <https://archive.org/details/onmeaningselecte0000grei>
 
 ### 2.21 Generative Course
 
@@ -519,7 +519,7 @@ existential semiotics.
     texts or semiotic systems.
 -   **Reference:** Greimas, A. J. (1966). *Sémantique structurale:
     Recherche de méthode*. Larousse. Retrieved from
-    https://archive.org/details/semiotics
+    <https://archive.org/details/semiotics>
 
 ### 2.22 Alien-Psychic / Auto-Psychic
 
@@ -533,7 +533,7 @@ existential semiotics.
 -   **Reference:** Husserl, E. (1960). *Cartesian Meditations: An
     Introduction to Phenomenology* (D. Cairns, Trans.). Martinus
     Nijhoff. Retrieved from
-    https://archive.org/details/cartesianmeditat00huss
+    <https://archive.org/details/cartesianmeditat00huss>
 
 ### 2.23 Signification
 
@@ -546,7 +546,7 @@ existential semiotics.
     theories. Tarasti expands it with existential dimensions.
 -   **Reference:** Saussure, F. de. (1959). *Course in General
     Linguistics* (W. Baskin, Trans.). McGraw-Hill. Retrieved from
-    https://archive.org/details/courseingenerall0000saus
+    <https://archive.org/details/courseingenerall0000saus>
 
 ### 2.24 Isotopy
 
@@ -557,7 +557,7 @@ existential semiotics.
     discourse, ensuring coherence and unity.
 -   **Reference:** Greimas, A. J. (1987). *On Meaning: Selected Writings
     in Semiotic Theory*. University of Minnesota Press. Retrieved from
-    https://archive.org/details/onmeaningselecte0000grei
+    <https://archive.org/details/onmeaningselecte0000grei>
 
 ### 2.25 Existential Communication
 
@@ -570,7 +570,7 @@ existential semiotics.
     between self and other.
 -   **Reference:** Eco, U. (1976). *A Theory of Semiotics*. Indiana
     University Press. Retrieved from
-    https://archive.org/details/theoryofsemiotic0000ecou
+    <https://archive.org/details/theoryofsemiotic0000ecou>
 
 ### 2.26 Radical Transcendence
 
@@ -583,7 +583,7 @@ existential semiotics.
     and Hegel's absolute.
 -   **Reference:** Kant, I. (1781). *Critique of Pure Reason* (N. Kemp
     Smith, Trans.). Macmillan. Retrieved from
-    https://archive.org/details/critiqueofpurer00kantuoft
+    <https://archive.org/details/critiqueofpurer00kantuoft>
 
 ### 2.27 Phenomenological Transcendence
 
@@ -595,7 +595,7 @@ existential semiotics.
     phenomenology.
 -   **Reference:** Husserl, E. (1913). *Ideas Pertaining to a Pure
     Phenomenology and to a Phenomenological Philosophy*. Springer.
-    Retrieved from https://archive.org/details/ideaspertainingt00huss
+    Retrieved from <https://archive.org/details/ideaspertainingt00huss>
 
 ### 2.28 Empirical Transcendence
 
@@ -610,7 +610,7 @@ existential semiotics.
     within a social framework.
 -   **Reference:** Schütz, A., & Luckmann, T. (1973). *The Structures of
     the Life-World* (Vol. 1). Northwestern University Press. Retrieved
-    from https://archive.org/details/structuresoflife0000schu
+    from <https://archive.org/details/structuresoflife0000schu>
 
 ### 2.29 Existential Transcendence
 
@@ -637,7 +637,7 @@ existential semiotics.
     processes that govern meaning-making.
 -   **Reference:** Tarasti, E. (2000). *Existential Semiotics*. Indiana
     University Press. Retrieved from
-    https://books.google.com/books?id=FySwDQAAQBAJ
+    <https://books.google.com/books?id=FySwDQAAQBAJ>
 
 ### 2.31 Cartesian Semiotics
 
@@ -661,7 +661,7 @@ existential semiotics.
     Wittgenstein in his early work on language and logic.
 -   **Reference:** Wittgenstein, L. (1922). *Tractatus
     Logico-Philosophicus*. Routledge. Retrieved from
-    https://archive.org/details/tractatuslogicop00witt
+    <https://archive.org/details/tractatuslogicop00witt>
 
 ### 2.33 Cultural Semiotics
 
@@ -673,7 +673,7 @@ existential semiotics.
     culture highlights the role of texts in cultural communication.
 -   **Reference:** Lotman, Y. M. (1990). *Universe of the Mind: A
     Semiotic Theory of Culture*. I. B. Tauris. Retrieved from
-    https://archive.org/details/universeofmindse0000lotm
+    <https://archive.org/details/universeofmindse0000lotm>
 
 ### 2.34 Embodiment (in Zemic Context)
 
@@ -685,7 +685,7 @@ existential semiotics.
     individual actions.
 -   **Reference:** Tarasti, E. (2000). *Existential Semiotics*. Indiana
     University Press. Retrieved from
-    https://books.google.com/books?id=FySwDQAAQBAJ
+    <https://books.google.com/books?id=FySwDQAAQBAJ>
 
 ### 2.35 Sublimation (in Zemic Context)
 
@@ -697,7 +697,7 @@ existential semiotics.
     cultural values.
 -   **Reference:** Tarasti, E. (2000). *Existential Semiotics*. Indiana
     University Press. Retrieved from
-    https://books.google.com/books?id=FySwDQAAQBAJ
+    <https://books.google.com/books?id=FySwDQAAQBAJ>
 
 ### 2.36 Transcendental Ego
 
@@ -727,7 +727,7 @@ existential semiotics.
     classical semiotics, as proposed by Tarasti.
 -   **Reference:** Tarasti, E. (2017). *Semiotics and Its Masters*. De
     Gruyter. Retrieved from
-    [https://books.google.com](https://books.google.com/)
+    <https://books.google.com>
 
 ## 3. Bibliography
 
@@ -797,13 +797,13 @@ Trans.). McGraw-Hill. Retrieved from
 
 Schütz, A., & Luckmann, T. (1973). *The structures of the life-world*
 (Vol. 1). Northwestern University Press. Retrieved from
-https://archive.org/details/structuresoflife0000schu
+<https://archive.org/details/structuresoflife0000schu>
 
 Tarasti, E. (2000). *Existential Semiotics*. Indiana University Press.
 Retrieved from <https://books.google.com/books?id=FySwDQAAQBAJ>
 
 Tarasti, E. (2017). *Semiotics and Its Masters*. De Gruyter. Retrieved
-from [https://books.google.com](https://books.google.com/)
+from <https://books.google.com>
 
 Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind:
 Cognitive Science and Human Experience*. MIT Press. Retrieved from
