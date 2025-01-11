@@ -1,9 +1,12 @@
 body {
-    margin: 0 auto; /* Center content */
-    padding: 0 15px; /* Add padding for mobile */
-}
-
-.content {
     max-width: 800px; /* Limit width for larger screens */
     margin: 0 auto; /* Center the content */
+    padding: 0 15px; /* Add padding for mobile */
+    line-height: 1.6; /* Improve readability */
+    font-family: Arial, sans-serif; /* Choose a readable font */
+}
+
+img {
+    max-width: 100%; /* Ensure images are responsive */
+    height: auto;
 }
