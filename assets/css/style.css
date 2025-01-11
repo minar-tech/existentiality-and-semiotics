@@ -1,5 +1,5 @@
 body {
-    max-width: 800px; /* Limit width for larger screens */
+    max-width: 600px; /* Limit width for larger screens */
     margin: 0 auto; /* Center the content */
     padding: 0 15px; /* Add padding for mobile */
     line-height: 1.6; /* Improve readability */
